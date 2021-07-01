@@ -2,4 +2,8 @@ app file 1 contents are stored here...
 app 1
 app 1
 app 1
+<<<<<<< HEAD
  master making changes...
+=======
+person 1 making changes.
+>>>>>>> person1

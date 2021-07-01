@@ -1,2 +1,6 @@
 web file 1 contents are stored here...
+<<<<<<< HEAD
 master making changes...
+=======
+Person1 changing  some data..
+>>>>>>> person1
